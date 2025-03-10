@@ -38,7 +38,7 @@ const Navicons = () => {
       )}
       <Image
         src="/notification.png"
-        alt="profile-img"
+        alt="notification-img"
         width={22}
         height={22}
         className="cursor-pointer"
@@ -46,7 +46,7 @@ const Navicons = () => {
       <div className="relative cursor-pointer">
         <Image
           src="/cart.png"
-          alt="profile-img"
+          alt="cart-img"
           width={22}
           height={22}
           className="cursor-pointer"
