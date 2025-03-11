@@ -92,7 +92,19 @@ const Footer = () => {
         </div>
       </div>
       {/* BOTTOM SECTION */}
-      <div className=""></div>
+      <div className="flex flex-col md:flex-row i-c justify-between gap-8 mt-16">
+        <div className="">2025 Nata Shop</div>
+        <div className="flex flex-col gap-8 md:flex-row">
+          <div>
+            <span className="text-gray-500 mr-4">Language</span>
+            <span className="font-medium">United Kingdom | language</span>
+          </div>
+          <div>
+            <span className="text-gray-500 mr-4">Currency</span>
+            <span className="font-medium">Pounds</span>
+          </div>
+        </div>
+      </div>
     </div>
   );
 };
