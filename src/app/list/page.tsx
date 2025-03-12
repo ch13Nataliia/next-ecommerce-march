@@ -17,11 +17,11 @@ const ListPage = () => {
           </button>
         </div>
         <div className="relative w-1/3">
-          <Image src="/woman.png" alt="women" fill className="object-contain" />
+          <Image src="/cake.png" alt="women" fill className="object-contain" />
         </div>
       </div>
       <Filter />
-      <h2 className='mt-12 text-xl font-semibold'>Shoes For You</h2>
+      <h2 className="mt-12 text-xl font-semibold">Shoes For You</h2>
       <ProductList />
     </div>
   );

@@ -66,8 +66,8 @@ const Filter = () => {
           className="py-2 px-4 rounded-xl text-xs font-medium bg-[#EBEDED]"
         >
           <option>Sort By</option>
-          <option value="">Proce (low to high)</option>
-          <option value="">Proce (high to low)</option>
+          <option value="">Price (low to high)</option>
+          <option value="">Price (high to low)</option>
           <option value="">Newest</option>
           <option value="">Oldest (low to high)</option>
         </select>
